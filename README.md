@@ -47,12 +47,12 @@ Coming Soon!!!
 
 ---
 
-## 📄 License
+## 📜 License
 
-MIT
+This project is open source and available under the [MIT License](LICENSE).
 
----
+## 👨‍💻 Author
 
-## 👤 Author
-
-Kabir Sethi
+**Kabir Sethi**  
+Bachelor of Computer Science and Business  
+Passionate about clean code, problem-solving, and building cool tools.
